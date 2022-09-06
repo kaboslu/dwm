@@ -26,6 +26,11 @@ static const char *colors[][3]      = {
  
  /* tagging */
 @@ -113,4 +118,3 @@ static Button buttons[] = {
+ 	{ ClkTagBar,            MODKEY,         Button1,        tag,            {0} },
+ };
+ 
+ /* tagging */
+@@ -113,4 +118,3 @@ static Button buttons[] = {
 };
 
 /* tagging */
